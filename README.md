@@ -7,4 +7,4 @@
     
  ~ Task ~
     - To create a website for an online musical instrument store.
-    - The System had individual users such that each of them were able to log in and perform their function.
+    - The System had individual users such that each of them were able to log in and m their function.
